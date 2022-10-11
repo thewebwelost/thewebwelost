@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I’m currently working on project to help people manage their job applications, keep track of resume variations and manage search-related contacts, companies etc.
+
+My interest lies in creating full-stack apps using TypeScript, React and newer frontend tools including Next, Vite, Astro on for frontend and Express for backend systems.
+
+Feel free to check both Outerview and Outerview_be repos.
+
 <!--
 **thewebwelost/thewebwelost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
