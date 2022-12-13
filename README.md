@@ -4,7 +4,7 @@ I’m currently working on project to help people manage their job applications,
 
 My interest lies in creating full-stack apps using TypeScript.
 
-Feel free to check both Outerview and Outerview_be repos.
+Feel free to check out Outerview repo.
 
 <!--
 **thewebwelost/thewebwelost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
